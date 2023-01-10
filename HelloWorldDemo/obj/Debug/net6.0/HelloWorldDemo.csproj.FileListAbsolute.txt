@@ -1,0 +1,15 @@
+/Users/prashanth/projects/HelloWorldDemo/HelloWorldDemo/bin/Debug/net6.0/HelloWorldDemo
+/Users/prashanth/projects/HelloWorldDemo/HelloWorldDemo/bin/Debug/net6.0/HelloWorldDemo.deps.json
+/Users/prashanth/projects/HelloWorldDemo/HelloWorldDemo/bin/Debug/net6.0/HelloWorldDemo.runtimeconfig.json
+/Users/prashanth/projects/HelloWorldDemo/HelloWorldDemo/bin/Debug/net6.0/HelloWorldDemo.dll
+/Users/prashanth/projects/HelloWorldDemo/HelloWorldDemo/bin/Debug/net6.0/HelloWorldDemo.pdb
+/Users/prashanth/projects/HelloWorldDemo/HelloWorldDemo/obj/Debug/net6.0/HelloWorldDemo.csproj.AssemblyReference.cache
+/Users/prashanth/projects/HelloWorldDemo/HelloWorldDemo/obj/Debug/net6.0/HelloWorldDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prashanth/projects/HelloWorldDemo/HelloWorldDemo/obj/Debug/net6.0/HelloWorldDemo.AssemblyInfoInputs.cache
+/Users/prashanth/projects/HelloWorldDemo/HelloWorldDemo/obj/Debug/net6.0/HelloWorldDemo.AssemblyInfo.cs
+/Users/prashanth/projects/HelloWorldDemo/HelloWorldDemo/obj/Debug/net6.0/HelloWorldDemo.csproj.CoreCompileInputs.cache
+/Users/prashanth/projects/HelloWorldDemo/HelloWorldDemo/obj/Debug/net6.0/HelloWorldDemo.dll
+/Users/prashanth/projects/HelloWorldDemo/HelloWorldDemo/obj/Debug/net6.0/refint/HelloWorldDemo.dll
+/Users/prashanth/projects/HelloWorldDemo/HelloWorldDemo/obj/Debug/net6.0/HelloWorldDemo.pdb
+/Users/prashanth/projects/HelloWorldDemo/HelloWorldDemo/obj/Debug/net6.0/HelloWorldDemo.genruntimeconfig.cache
+/Users/prashanth/projects/HelloWorldDemo/HelloWorldDemo/obj/Debug/net6.0/ref/HelloWorldDemo.dll
