@@ -12,7 +12,7 @@ namespace HelloWorldDemo
         {
             Console.WriteLine("Welcome to Hello World Program");
             Console.WriteLine("Making changes")
-            Console.WriteLine("Creating conflit for changes")
+            Console.WriteLine("Creating conflit for remote changes")
             Console.ReadLine();
         }
     }
