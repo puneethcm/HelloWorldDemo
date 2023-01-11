@@ -12,7 +12,8 @@ namespace HelloWorldDemo
         {
             Console.WriteLine("Welcome to Hello World Program");
             Console.WriteLine("Making changes");
-            Console.WriteLine("Creating conflict for local changes")
+            Console.WriteLine("Creating conflict for local changes");
+            Console.WriteLine("Creating confilct for remote changes");
             Console.ReadLine();
         }
     }
