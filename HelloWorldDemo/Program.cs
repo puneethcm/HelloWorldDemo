@@ -4,7 +4,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Welcome to Hello World");
+        Console.WriteLine("Welcome to Hello World Demo");
         Console.WriteLine("Choose the program");
         Console.WriteLine("1:Eleginility\n2:WeekDays\n3:Reverse Program\n4:Even or Odd\n5:Two inreger is equal or not\n6:Larger number");
         int option = Convert.ToInt32(Console.ReadLine());
