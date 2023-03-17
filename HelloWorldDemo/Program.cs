@@ -6,7 +6,8 @@ internal class Program
     {
         Console.WriteLine("Welcome to Hello World Demo");
         Console.WriteLine("Choose the program");
-        Console.WriteLine("1:Eleginility\n2:WeekDays\n3:Reverse Program\n4:Even or Odd\n5:Two inreger is equal or not\n6:Larger number");
+        Console.WriteLine("1:Eleginility\n2:WeekDays\n3:Reverse Program\n4:Even or Odd\n5:Two inreger is equal or not\n6:Larger number\n7:Arithmatic Operation" +
+            "\n8:Power of 2");
         int option = Convert.ToInt32(Console.ReadLine());
 
         switch (option)
@@ -29,8 +30,13 @@ internal class Program
                 break;
             case 6:
                 int a = 30, b = 56, c = 78;
-                Largernumber.FindLargerNumber(a,b,c);
-                
+                Largernumber.FindLargerNumber(a, b, c);
+                break;
+            case 7:
+                ArithmaticOperations.ArithmathicOperation();
+                break;
+            case 8:
+                PowerOfTwo.PowerTwo();
                 break;
         }
         Console.ReadLine();

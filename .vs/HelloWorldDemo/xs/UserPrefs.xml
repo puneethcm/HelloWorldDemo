@@ -1,28 +1,28 @@
 ﻿<Properties StartupConfiguration="{1761AB58-454B-4CBA-84F8-C9E0B7E702FA}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorldDemo/Program.cs">
     <Files>
-      <File FileName="HelloWorldDemo/Program.cs" Line="8" Column="2" />
+      <File FileName="HelloWorldDemo/Program.cs" Line="38" Column="1" />
+      <File FileName="HelloWorldDemo/WeekDays.cs" Line="19" Column="10" />
+      <File FileName="HelloWorldDemo/ReverseProgram.cs" Line="12" Column="39" />
+      <File FileName="HelloWorldDemo/EvenOrOdd.cs" Line="34" Column="10" />
+      <File FileName="HelloWorldDemo/Largernumber.cs" Line="19" Column="14" />
+      <File FileName="HelloWorldDemo/Car.cs" Line="14" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HelloWorldDemo" expanded="True">
-            <Node name="HelloWorldDemo" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="HelloWorldDemo" expanded="True" />
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.HelloWorldDemo PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
