@@ -7,7 +7,7 @@ internal class Program
         Console.WriteLine("Welcome to Hello World Demo");
         Console.WriteLine("Choose the program");
         Console.WriteLine("1:Eleginility\n2:WeekDays\n3:Reverse Program\n4:Even or Odd\n5:Two inreger is equal or not\n6:Larger number\n7:Arithmatic Operation" +
-            "\n8:Power of 2");
+            "\n8:Power of 2\n9:Pattren");
         int option = Convert.ToInt32(Console.ReadLine());
 
         switch (option)
@@ -37,6 +37,11 @@ internal class Program
                 break;
             case 8:
                 PowerOfTwo.PowerTwo();
+                break;
+            case 9:
+                //Pattren.Pattrens();
+                //Pattren.ReversePattrens();
+                Pattren.Charector();
                 break;
         }
         Console.ReadLine();
