@@ -41,8 +41,7 @@ internal class Program
             case 9:
                 Pattren.Pattrens();
                 Pattren.ReversePattrens();
-                Pattren.Charector();
-                Pattren.Charector();
+                //Pattren.Charector();
                 break;
         }
         Console.ReadLine();
