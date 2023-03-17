@@ -39,8 +39,9 @@ internal class Program
                 PowerOfTwo.PowerTwo();
                 break;
             case 9:
-                //Pattren.Pattrens();
-                //Pattren.ReversePattrens();
+                Pattren.Pattrens();
+                Pattren.ReversePattrens();
+                Pattren.Charector();
                 Pattren.Charector();
                 break;
         }
