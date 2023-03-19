@@ -60,7 +60,7 @@ namespace HelloWorldDemo
 
             //char[] array = s.ToCharArray();
             string result = "";
-            for (int i=0;i<s.Length;i++)
+            for (int i = 0; i < s.Length; i++)
             {
                 if (char.IsLower(s[i]))
                 {

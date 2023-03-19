@@ -7,7 +7,7 @@ internal class Program
         Console.WriteLine("Welcome to Hello World Demo");
         Console.WriteLine("Choose the program");
         Console.WriteLine("1:Eleginility\n2:WeekDays\n3:Reverse Program\n4:Even or Odd\n5:Two inreger is equal or not\n6:Larger number\n7:Arithmatic Operation" +
-            "\n8:Power of 2\n9:Pattren");
+            "\n8:Power of 2\n9:Pattren\n10:Sumation\n11:Factorial\n12:Coin Flip\n13:Admission");
         int option = Convert.ToInt32(Console.ReadLine());
 
         switch (option)
@@ -41,7 +41,22 @@ internal class Program
             case 9:
                 Pattren.Pattrens();
                 Pattren.ReversePattrens();
-                //Pattren.Charector();
+                Pattren.Charector();
+                break;
+            case 10:
+                Console.WriteLine("Enter the number");
+                int n = Convert.ToInt32(Console.ReadLine());
+                Sumation.summation(n);
+                //Console.WriteLine(Sumation.summation(n));
+                break;
+            case 11:
+                Factorial.FindFactorial();
+                break;
+            case 12:
+                CoinFlip.FindCoinFlip();
+                break;
+            case 13:
+                Addmission.EligibleForAdmission();
                 break;
         }
         Console.ReadLine();

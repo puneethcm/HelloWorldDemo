@@ -10,7 +10,7 @@ namespace HelloWorldDemo
 
 			char[] array = word.ToCharArray();
 			Console.WriteLine("After reverse");
-			for (int i = word.Length-1; i>=0; i--)
+			for (int i = word.Length -1; i>=0; i--)
 			{
 				Console.Write(array[i] + " ");
 			}
