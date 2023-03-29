@@ -6,7 +6,7 @@ namespace HelloWorldDemo
 		public string name;
 		public double Price()
 		{
-			return 80000;
+			return 100000;
 		}
 	}
 }
