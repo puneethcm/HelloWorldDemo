@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
@@ -23,3 +24,30 @@ Global
 		SolutionGuid = {BE652901-ABEC-43E2-A0B6-BECAC38B95C6}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldDemo", "HelloWorldDemo\HelloWorldDemo.csproj", "{C26EE345-82AA-4CE2-8358-ADBF1F527CF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C26EE345-82AA-4CE2-8358-ADBF1F527CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26EE345-82AA-4CE2-8358-ADBF1F527CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26EE345-82AA-4CE2-8358-ADBF1F527CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26EE345-82AA-4CE2-8358-ADBF1F527CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E6B2E70-488D-416C-9986-10453BE3F162}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 2e7d91d3fae01e77665862c34e2bd2c6e0589f1e
